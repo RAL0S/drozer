@@ -1,0 +1,8 @@
+[package_detail]
+name = "drozer"
+description = "The Leading Security Assessment Framework for Android"
+version = "a80c5f1"
+source_url = "https://github.com/WithSecureLabs/drozer"
+license = "BSD-3-Clause"
+install_script = "setup.sh"
+install_script_type = "shell"
